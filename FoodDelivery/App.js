@@ -14,7 +14,7 @@ const App = () => {
   return (
     <SafeAreaView style={{flex: 1}}>
       <View>
-        <Text>Food Delivery App</Text>
+        <Text>Food Delivery</Text>
       </View>
     </SafeAreaView>
   );
